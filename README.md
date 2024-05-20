@@ -34,7 +34,7 @@ end_header
 ├── Program.cs
 └── README.md
 
-3 directories, 4 files
+2 directories, 4 files
 ```
 
 1. Ensure you have a PLY file in the `data/pointclouds` directory. The file should be named `low.ply`.

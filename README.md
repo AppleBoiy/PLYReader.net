@@ -6,8 +6,6 @@ PLYReader.net is a simple .NET application designed to read and parse binary lit
 
 - .NET SDK (version 8.0 or later)
 
-- .ply file
-
 ### PLY File Format
 ```header.ply
 ply

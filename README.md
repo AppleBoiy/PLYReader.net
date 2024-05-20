@@ -25,21 +25,6 @@ end_header
 #{vertex data}
 ```
 
-### Building the Project
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/PLYReader.net.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd PLYReader.net
-    ```
-3. Build the project:
-    ```sh
-    dotnet build
-    ```
-
 ### Running the Application
 
 ```tree

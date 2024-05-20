@@ -2,7 +2,7 @@
 
 PLYReader.net is a simple .NET application designed to read and parse binary little-endian PLY (Polygon File Format) files. The application extracts vertex data including coordinates and RGB color values, and displays them in a human-readable format.
 
-### Prerequisites
+## Prerequisites
 
 - .NET SDK (version 8.0 or later)
 

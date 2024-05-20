@@ -86,7 +86,9 @@ internal abstract class DotnetPlyReader
         
         if (vertices.Count > 0)
         {
-            Console.WriteLine(vertices[0]);
+            Console.WriteLine("Vertices:");
+            Console.WriteLine("First vertex | " + vertices.First());
+            Console.WriteLine("Last vertex  | " + vertices.Last());
         }
     }
 

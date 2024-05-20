@@ -66,9 +66,11 @@ Example output from running the application:
 
 ```
 Reading file: /path/to/project/data/pointclouds/low.ply
-Header: 10 lines
-Data: 1000 vertices
-Vertex: (1.0, 2.0, 3.0) RGB: (255, 0, 0)
+Header: 11 lines
+Data: 3453384 vertices
+Vertices:
+First vertex | Vertex: (4.4911546E-38, 1.1247499E+23, -3.3587972E+34) RGB: (191, 208, 149)
+Last vertex  | Vertex: (-2.240798E+10, -1.9314158, -1.0879884E-14) RGB: (196, 4, 14)
 ```
 
 ## License

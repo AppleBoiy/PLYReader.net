@@ -6,6 +6,25 @@ PLYReader.net is a simple .NET application designed to read and parse binary lit
 
 - .NET SDK (version 8.0 or later)
 
+- .ply file
+
+### PLY File Format
+```header.ply
+ply
+format binary_little_endian 1.0
+comment Created by #{software}
+element vertex #{number of vertices}
+property double x
+property double y
+property double z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+
+#{vertex data}
+```
+
 ### Building the Project
 
 1. Clone the repository:
